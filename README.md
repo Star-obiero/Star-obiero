@@ -38,7 +38,7 @@ PostgreSQL, MySQL
 TensorFlow (beginner level)
 
 📫 Let’s Connect
-Email: [your.email@example.com]
+Email: [..princevalentine879@gmail.com]
 
 LinkedIn: [your LinkedIn link]
 
@@ -55,16 +55,3 @@ A few cool things I’ve worked on or am currently building:
 
 ⚡ Fun Fact
 When I'm not coding, you'll find me learning chess strategies, exploring music, or diving into the latest tech trends.
-
-- 👋 Hi, I’m @Star-obiero
-- 👀 I’m interested in ...understanding python 
-- 🌱 I’m currently learning ...c
-- 💞️ I’m looking to collaborate on ...a project
-- 📫 How to reach me ...princevalentine879@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Star-obiero/Star-obiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
