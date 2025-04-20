@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name]
+👋 Hi there! I'm [PRINCE OBIERO]
 🎓 Aspiring Data Scientist | 📊 Machine Learning Enthusiast | 💡 Lifelong Learner
 
 🔍 About Me
