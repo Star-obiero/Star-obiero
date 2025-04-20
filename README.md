@@ -40,7 +40,7 @@ TensorFlow (beginner level)
 📫 Let’s Connect
 Email: [..princevalentine879@gmail.com]
 
-LinkedIn: [your LinkedIn link]
+LinkedIn: [https://www.linkedin.com/feed/]
 
 Portfolio: [if you have one]
 
