@@ -42,14 +42,10 @@ Email: [..princevalentine879@gmail.com]
 
 LinkedIn: [www.linkedin.com/in/obiero-prince-1618a8311]
 
-Portfolio: [if you have one]
 
 📂 Featured Projects
 A few cool things I’ve worked on or am currently building:
 
-🔍 [Project Title] – e.g., A machine learning model that predicts housing prices
-
-📊 [Project Title] – e.g., Exploratory data analysis on a healthcare dataset
 
 🤖 [Project Title] – e.g., Image classifier using CNNs
 
