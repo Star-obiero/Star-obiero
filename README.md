@@ -47,7 +47,7 @@ LinkedIn: [www.linkedin.com/in/obiero-prince-1618a8311]
 A few cool things I’ve worked on or am currently building:
 
 
-🤖 [Project Title] – e.g., Image classifier using CNNs
+🤖 [Project Title] – e.g., Microsoft Movie Analysis
 
 ⚡ Fun Fact
 When I'm not coding, you'll find me learning chess strategies, exploring music, or diving into the latest tech trends.
